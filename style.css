@@ -80,9 +80,13 @@ body {
 }
 header {
   background-color: #0e8f59; /* Verde */
-  color: white;
+  color: rgb(245, 238, 238);
   text-align: center;
   padding: 20px;
+}
+
+h1 {
+  text-shadow: 2px 2px 5px rgb(184, 58, 9);
 }
 h1 {
   font-size: 2.5em;
@@ -90,6 +94,10 @@ h1 {
 }
 h2, h3 {
   margin: 10px 0;
+}
+
+h2 {
+  text-shadow: 2px 2px 5px rgb(42, 92, 104);
 }
 nav {
   margin-top: 15px;
