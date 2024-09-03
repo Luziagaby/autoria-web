@@ -1,15 +1,105 @@
-<!DOCTYPE html>
-< html >
-< head >
-< style >
-h1 {
-  text-shadow: 2px 2px;
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
 }
-<style>
-<head>
-</body>
 
-<h1>Text-shadow effect!</h1>
+header {
+    background-color: #4b9185;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+}
 
-</body>
-</html>
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #f1f1f1;
+}
+
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f8ff;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: #4CAF50; /* Verde */
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+h1 {
+  font-size: 2.5em;
+  margin: 0;
+}
+h2, h3 {
+  margin: 10px 0;
+}
+nav {
+  margin-top: 15px;
+}
+nav a {
+  color: rgb(148, 83, 83);
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
+}
+nav a:hover {
+  text-decoration: underline;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f8ff;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: #0e8f59; /* Verde */
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+h1 {
+  font-size: 2.5em;
+  margin: 0;
+}
+h2, h3 {
+  margin: 10px 0;
+}
+nav {
+  margin-top: 15px;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
+}
+nav a:hover {
+  text-decoration: underline;
+}
